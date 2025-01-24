@@ -1,4 +1,8 @@
 Hanoi dep qua
 Vang Ha noi dep qua di 
 Em co yeu Hanoi khong ?
+<<<<<<< Updated upstream
 D
+=======
+E
+>>>>>>> Stashed changes
